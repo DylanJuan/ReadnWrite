@@ -1,0 +1,5 @@
+.bodyBackground {
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    min-height: 100vh;
+}
